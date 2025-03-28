@@ -1,5 +1,5 @@
 # Tricho_metaproteome_Anderson_2025
-Code for figures, intermediate data products, and statistics for "Trichodesmium metaproteomes reflect the differential influence of resource availability across ocean regions" (Anderson et al., 2025)
+Code for figures, intermediate data products, and statistics for "Trichodesmium metaproteomes reflect the differential influence of resource availability across ocean regions" (Anderson et al., in review)
 
 Supplemental files used for analysis are available on Zenodo (doi: 10.5281/zenodo.14187345), along with supplemental figures and the supplemental metagenome reference dataset.
 
