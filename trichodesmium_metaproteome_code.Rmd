@@ -44,7 +44,7 @@ tricho_initial <- read.csv("S3.csv")
 
 # set up Trichodesmium protein relative abundance df
 ```{r}
-tricho <- tricho_initial %>%  
+tricho_2 <- tricho_initial %>%  
   mutate(Atlantic_N_count = rowSums(tricho_initial[, c(4:17)], na.rm=TRUE)) %>%
   mutate(Pacific_N_count = rowSums(tricho_initial[, c(18:26)], na.rm=TRUE)) %>%
   mutate(Pacific_S_count = rowSums(tricho_initial[, c(27:29)], na.rm=TRUE)) %>%
